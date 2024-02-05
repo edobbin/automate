@@ -1,0 +1,1 @@
+@python.exe C:\Users\Ethan\Desktop\automate\Other\google.py %*

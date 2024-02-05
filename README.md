@@ -1,0 +1,2 @@
+This is a repositroy that hold my python automation scripts as well as the batch files that help run them.
+Terminal based scripts are used by creating the btach file then adding an environment path for it.
